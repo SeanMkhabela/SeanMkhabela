@@ -30,6 +30,5 @@ I'm a passionate Full Stack Developer with experience in building web applicatio
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourtwitterhandle)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat&logo=google-chrome)](https://yourpersonalwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/sean-bailey-mkhabela-4806b7208/))
+
