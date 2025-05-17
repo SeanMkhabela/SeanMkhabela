@@ -10,12 +10,6 @@ I'm a passionate Full Stack Developer with experience in building web applicatio
 
 
 
-## 🛠️ Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgresql,git,github,docker)](https://skillicons.dev)
-
-
-
 ## 📈 GitHub Stats
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanMkhabela&show_icons=true&theme=radical)
